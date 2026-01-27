@@ -1,6 +1,6 @@
 # CHAT — CANON
 
-inherits: /canonic-apps/SYSTEM/
+inherits: /CANONIC/
 
 ---
 
